@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="Text_text">Калькулятор</string>
+    <string name="TextBox_text">Впишите значение</string>
+    <string name="TextBox_Hint1">Введите первое число</string>
+    <string name="TextBox_Hint2">Введите второе число</string>
+    <string name="Button_text">Посчитать</string>
+</resources>
